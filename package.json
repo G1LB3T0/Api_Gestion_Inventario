@@ -1,0 +1,22 @@
+{
+  "name": "api-vorwin",
+  "version": "1.0.0",
+  "description": "Api para Gestion de inventario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G1LB3T0/Api_Gestion_Inventario.git"
+  },
+  "author": "Luis Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G1LB3T0/Api_Gestion_Inventario/issues"
+  },
+  "homepage": "https://github.com/G1LB3T0/Api_Gestion_Inventario#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
